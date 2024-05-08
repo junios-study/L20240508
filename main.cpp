@@ -16,5 +16,6 @@ int main()
 	cout << "*        *" << endl;
 	cout << "**********" << endl;
 
+	//학원서 한거
 	return 0;
 }
